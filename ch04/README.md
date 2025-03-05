@@ -1,11 +1,11 @@
 # 第四章：从零实现 GPT 模型以生成文本
 
-&nbsp;
+
 ## 章节主要代码
 
 - [01_main-chapter-code](01_main-chapter-code) 包含了章节的主要代码。
 
-&nbsp;
+
 ## 额外材料
 
 - [02_performance-analysis](02_performance-analysis) 包含了可选代码，用于分析章节中实现的 GPT 模型的性能。
