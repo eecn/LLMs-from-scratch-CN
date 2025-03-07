@@ -1,11 +1,11 @@
 # 第五章：在无标签数据上进行预训练
 
-&nbsp;
+
 ## 章节主要代码
 
 - [01_main-chapter-code](01_main-chapter-code) 包含了章节的主要代码。
 
-&nbsp;
+
 ## 额外材料
 
 - [02_alternative_weight_loading](02_alternative_weight_loading) 包含了从替代来源加载 GPT 模型权重的代码，以防 OpenAI 提供的模型权重不可用。
