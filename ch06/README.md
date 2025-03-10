@@ -1,11 +1,11 @@
 # 第六章：分类任务的微调
 
-&nbsp;
+
 ## 主章节代码
 
 - [01_main-chapter-code](01_main-chapter-code) 包含了主章节的代码
 
-&nbsp;
+
 ## 附加材料
 
 - [02_bonus_additional-experiments](02_bonus_additional-experiments) 包含了额外的实验（例如，训练最后一个与第一个标记、扩展输入长度等）
